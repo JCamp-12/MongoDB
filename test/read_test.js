@@ -14,6 +14,8 @@ describe('Reading users out of the db', () => {
     User.find({ name: 'Jason' })
       .then((users) => {
         console.log(users);
+        console.log(users[0]);
+        assert(users[0]._id);
         done();
       });
   });
