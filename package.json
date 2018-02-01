@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/JCamp-12/MongoDB#readme",
   "dependencies": {
-    "mongo": "^0.1.0"
+    "mocha": "^5.0.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.0.3",
+    "nodemon": "^1.14.11"
   }
 }

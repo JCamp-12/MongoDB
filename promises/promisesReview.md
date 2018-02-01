@@ -75,30 +75,3 @@ this
   1. resolved - something finished and it all went ok
   1. rejected - something finished and something went bad
 
-
-
-
-
-
-#### Example:
-
-* Fields marked with an asterisk are required. Everything else is supplimental information about our power rangers.
-
-
-
-
-
-`http://localhost:3030`
-
-
-
-
-## [GET] `/api/rangers/all`
-
-| Endpoint      |     Type      |  data |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-> This would turn into a block quote.
