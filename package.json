@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JCamp-12/MongoDB/issues"
   },
-  "homepage": "https://github.com/JCamp-12/MongoDB#readme"
+  "homepage": "https://github.com/JCamp-12/MongoDB#readme",
+  "dependencies": {
+    "mongo": "^0.1.0"
+  }
 }
